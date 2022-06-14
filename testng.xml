@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CandyTheatre Test Suite">
+    <test name="Test" verbose="2" preserve-order="true">
+        <classes>
+            <class name="com.shurel.automation.candytheatre.UC01Test"/>
+            <class name="com.shurel.automation.candytheatre.UC02Test"/>
+        </classes>
+        </test>
+</suite>
