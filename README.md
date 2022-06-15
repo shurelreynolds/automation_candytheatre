@@ -13,7 +13,7 @@ This project is used to automate testing tasks using Selenium WebDriver.
 - Right Click project -> Run as -> Maven install
 
  
-### PROJECT PRE-REQUISTES
+#### PROJECT PRE-REQUISTES
 
 Based on the operating System, download and install the following softwares
 
